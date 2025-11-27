@@ -1,27 +1,61 @@
 # 👋 Hi, I'm Abdelrahman Elshhawy
 
 🎓 I'm a student at the Faculty of Artificial Intelligence.  
-🤖 Passionate about **Artificial Intelligence & Machine Learning** with a primary focus on **Computer Vision** and a secondary interest in **Natural Language Processing (NLP)**.  
-💡 I enjoy building intelligent systems, experimenting with deep learning architectures, and working on real-world ML projects.
+🤖 Passionate about **Artificial Intelligence & Machine Learning**, with a primary focus on **Computer Vision** and secondary interest in **Natural Language Processing (NLP)**.  
+💡 I enjoy building intelligent systems and exploring deep learning models.
 
 ---
 
 ## 🛠 Skills
 
-### 🔹 Programming & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="left">
 
-### 🔹 Machine Learning / Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" />
+  </a>
 
-### 🔹 Development / Environments
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+  <!-- C++ -->
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" />
+  </a>
+
+  <!-- PyTorch -->
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" />
+  </a>
+
+  <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" />
+  </a>
+
+  <!-- Scikit-learn -->
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" />
+  </a>
+
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" />
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" />
+  </a>
+
+  <!-- Jupyter -->
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" />
+  </a>
+
+  <!-- Google Colab -->
+  <a href="https://colab.research.google.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Google_Colaboratory_SVG_Logo.svg" width="55" />
+  </a>
+
+</p>
 
 ---
 
@@ -29,26 +63,15 @@
 
 ### 🖼 Image Classification Using Neural Networks  
 Built and trained a convolutional neural network (CNN) to classify images using deep learning techniques.  
-Includes data preprocessing, model training, evaluation, and metrics visualization.
 
 ---
 
 ### 🚕 Taxi Trip Duration Prediction  
-A machine learning regression project predicting NYC taxi trip duration using feature engineering, EDA, and ML models.
+A machine learning project predicting NYC taxi trip duration using real-world features and regression models.  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elshhawy95&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elshhawy95&layout=compact&theme=tokyonight" height="165"/>
-</p>
 
 ---
 
 ## 📫 Contact  
-Feel free to reach out for collaboration, project ideas, or AI/ML discussions!
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/elshhawy95  
-
+Feel free to reach out for collaboration, project ideas, or discussions related to AI, Machine Learning, or Computer Vision.  
+🔗 **LinkedIn:** [linkedin.com/in/elshhawy95](https://www.linkedin.com/in/elshhawy95)    
